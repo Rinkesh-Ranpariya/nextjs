@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "1",
+      "designation": "Developer",
+      "description": "This impressive paella is a perfect party dish and a fun meal to cook together with your guests. Add 1 cup of frozen peas along with the mussels, if you like.",
+      "email": "a@gmail.com",
+      "phone": "9966996699",
+      "gender": "Male"
+    },
+    {
+      "id": "2022-11-04T10:42:52.483Z",
+      "name": "2",
+      "designation": "sohal",
+      "description": "This impressive paella is a perfect party dish and a fun meal to cook together with your guests. Add 1 cup of frozen peas along with the mussels, if you like.",
+      "email": "demo@gmail.com",
+      "phone": "9999999999",
+      "gender": "Male"
+    },
+    {
+      "id": "2022-11-04T11:02:21.037Z",
+      "name": "3",
+      "designation": "uiui",
+      "description": "This impressive paella is a perfect party dish and a fun meal to cook together with your guests. Add 1 cup of frozen peas along with the mussels, if you like.",
+      "email": "demo@gmail.com",
+      "phone": "9999999999",
+      "gender": "Female"
+    },
+    {
+      "id": "2022-11-04T12:59:09.339Z",
+      "name": "4",
+      "designation": "dfg",
+      "description": "This impressive paella is a perfect party dish and a fun meal to cook together with your guests. Add 1 cup of frozen peas along with the mussels, if you like.",
+      "email": "demo@gmail.com",
+      "phone": "9999999999",
+      "gender": "Male"
+    },
+    {
+      "id": "2022-11-07T04:23:50.003Z",
+      "name": "5",
+      "designation": "sde",
+      "description": "This impressive paella is a perfect party dish and a fun meal to cook together with your guests. Add 1 cup of frozen peas along with the mussels, if you like.",
+      "email": "demo@gmail.com",
+      "phone": "9999999999",
+      "gender": "Male"
+    },
+    {
+      "id": "2022-11-07T12:26:10.103Z",
+      "name": "smit",
+      "designation": "asd",
+      "description": "This impressive paella is a perfect party dish and a fun meal to cook together with your guests. Add 1 cup of frozen peas along with the mussels, if you like.",
+      "email": "demo@gmail.com",
+      "phone": "9999999999",
+      "gender": "Male"
+    }
+  ]
+}
